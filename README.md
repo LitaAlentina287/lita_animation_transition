@@ -1,16 +1,55 @@
-# lita_animation_transition
+# 🎬 Lita Animation Transition
 
-A new Flutter project.
+**Lita Animation Transition** adalah aplikasi Flutter yang menampilkan penerapan berbagai jenis **Animation dan Transition** pada antarmuka mobile. Aplikasi ini dikembangkan sebagai tugas mata kuliah **Pemrograman Mobile 2** untuk memahami konsep animasi, transisi halaman, dan interaksi pengguna.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Fitur Aplikasi
 
-A few resources to get you started if this is your first Flutter project:
+- **Implicit Animation**  
+  Animasi otomatis menggunakan widget bawaan Flutter seperti `AnimatedContainer` tanpa menggunakan `AnimationController`.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Explicit Animation**  
+  Animasi yang dikontrol penuh menggunakan `AnimationController`, `Tween`, dan `AnimatedBuilder` untuk efek skala, warna, dan opacity.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Interactive Animation**  
+  Animasi berbasis input pengguna (tap) menggunakan `GestureDetector` yang memberikan umpan balik visual secara langsung.
+
+- **Custom Page Transition**  
+  Transisi antar halaman menggunakan `PageRouteBuilder` dengan efek **slide animation** yang halus dan modern.
+
+---
+
+## 🎨 Desain & UI
+
+- Tampilan modern dengan **gradient background** bernuansa ungu dan pink  
+- Elemen dekoratif berbentuk **circle** untuk mempercantik UI  
+- Konsistensi warna dan layout di setiap halaman  
+- Fokus pada pengalaman pengguna (UX) dan kejelasan animasi
+
+---
+
+## 🛠️ Teknologi yang Digunakan
+
+- **Flutter**
+- **Dart**
+- Material Design
+- Flutter Animation Framework
+
+---
+
+## 📁 Struktur Project
+lib/
+├─ main.dart
+└─ pages/
+├─ implicit_animation_page.dart
+├─ explicit_animation_page.dart
+├─ interactive_animation_page.dart
+└─ transition_example_page.dart
+
+screenshots/
+├─ home_page.png
+├─ implicit_animation.png
+├─ explicit_animation.png
+├─ interactive_animation.png
+└─ transition_page.png
