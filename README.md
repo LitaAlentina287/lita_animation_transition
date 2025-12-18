@@ -121,3 +121,4 @@ screenshots/
 └─ transition_page.png
 ```
 
+*Lita Alentina_23552011097_TIF K 23B*
