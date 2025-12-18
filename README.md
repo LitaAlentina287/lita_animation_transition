@@ -68,14 +68,6 @@
 
 ---
 
-## 🚀 Cara Menjalankan Aplikasi
-
-1. Pastikan Flutter sudah terinstall
-2. Clone repository:
-   ```bash
-   git clone https://github.com/LitaAlentina287/lita_animation_transition.git
-
-
 ## ✨ Fitur Aplikasi
 
 - **Implicit Animation**  
