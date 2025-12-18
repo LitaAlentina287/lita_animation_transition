@@ -7,7 +7,7 @@
 ## 📸 Screenshot Aplikasi & Penjelasan
 
 ### 🏠 1. Home Page – Modern & Animated
-![Home Page](screenshots/home_page.png)
+![Home Page](screenshots/Home%20Page.png)
 
 **Penjelasan:**
 - Halaman utama aplikasi
@@ -18,7 +18,7 @@
 ---
 
 ### 🔄 2. Implicit Animation Page
-![Implicit Animation](screenshots/implicit_animation.png)
+![Implicit Animation](screenshots/Implicit%20Animation.png)
 
 **Penjelasan:**
 - Menggunakan `AnimatedContainer`
@@ -29,7 +29,7 @@
 ---
 
 ### 🎯 3. Explicit Animation Page
-![Explicit Animation](screenshots/explicit_animation.png)
+![Explicit Animation](screenshots/Explicit%20Animation.png)
 
 **Penjelasan:**
 - Menggunakan `AnimationController`, `Tween`, dan `AnimatedBuilder`
