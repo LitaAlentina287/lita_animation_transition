@@ -4,8 +4,6 @@
 
 ---
 
----
-
 ## 📸 Screenshot Aplikasi & Penjelasan
 
 ### 🏠 1. Home Page – Modern & Animated
