@@ -47,7 +47,7 @@
 ---
 
 ### ❤️ 4. Interactive Animation Page
-![Interactive Animation](screenshots/interactive_animation.png)
+![Interactive Animation](screenshots/Interactive%20Animation.png)
 
 **Penjelasan:**
 - Animasi dipicu oleh interaksi pengguna (tap)
@@ -58,7 +58,7 @@
 ---
 
 ### 🔀 5. Transition Example Page
-![Transition Page](screenshots/transition_page.png)
+![Transition Page](screenshots/Transition%20Page.png)
 
 **Penjelasan:**
 - Menampilkan contoh **custom page transition**
