@@ -39,6 +39,8 @@
 ---
 
 ## 📁 Struktur Project
+
+```txt
 lib/
 ├─ main.dart
 └─ pages/
@@ -53,3 +55,5 @@ screenshots/
 ├─ explicit_animation.png
 ├─ interactive_animation.png
 └─ transition_page.png
+```
+
