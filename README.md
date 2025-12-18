@@ -4,6 +4,80 @@
 
 ---
 
+---
+
+## 📸 Screenshot Aplikasi & Penjelasan
+
+### 🏠 1. Home Page – Modern & Animated
+![Home Page](screenshots/home_page.png)
+
+**Penjelasan:**
+- Halaman utama aplikasi
+- Menampilkan navigasi ke berbagai jenis animasi
+- Desain modern dengan background gradasi warna
+- Berfungsi sebagai pusat navigasi seluruh fitur
+
+---
+
+### 🔄 2. Implicit Animation Page
+![Implicit Animation](screenshots/implicit_animation.png)
+
+**Penjelasan:**
+- Menggunakan `AnimatedContainer`
+- Animasi berjalan otomatis saat state berubah
+- Tidak menggunakan `AnimationController`
+- Cocok untuk animasi sederhana seperti perubahan ukuran, warna, dan posisi
+
+---
+
+### 🎯 3. Explicit Animation Page
+![Explicit Animation](screenshots/explicit_animation.png)
+
+**Penjelasan:**
+- Menggunakan `AnimationController`, `Tween`, dan `AnimatedBuilder`
+- Animasi meliputi:
+  - Perubahan skala
+  - Perubahan opacity
+  - Transisi warna
+- Dilengkapi tombol kontrol:
+  - Forward
+  - Reverse
+  - Repeat
+  - Stop
+- Cocok untuk animasi kompleks dan terkontrol
+
+---
+
+### ❤️ 4. Interactive Animation Page
+![Interactive Animation](screenshots/interactive_animation.png)
+
+**Penjelasan:**
+- Animasi dipicu oleh interaksi pengguna (tap)
+- Efek scale animation pada ikon favorit
+- Warna berubah sesuai status (like/unlike)
+- Memberikan feedback visual yang responsif
+
+---
+
+### 🔀 5. Transition Example Page
+![Transition Page](screenshots/transition_page.png)
+
+**Penjelasan:**
+- Menampilkan contoh **custom page transition**
+- Transisi antar halaman menggunakan `PageRouteBuilder`
+- Efek slide animation yang halus
+- Background disesuaikan dengan halaman lain agar konsisten
+
+---
+
+## 🚀 Cara Menjalankan Aplikasi
+
+1. Pastikan Flutter sudah terinstall
+2. Clone repository:
+   ```bash
+   git clone https://github.com/LitaAlentina287/lita_animation_transition.git
+
+
 ## ✨ Fitur Aplikasi
 
 - **Implicit Animation**  
